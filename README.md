@@ -16,7 +16,8 @@ A Convolutional Autoencoder (CAE) is a type of artificial neural network that le
 - Compared to regular autoencoders, they are specifically designed for images and leverage the spatial structure of the data.
 
   ## Results
+   ![image](https://github.com/mathblender17/CAE_autoencoders_CIFAR_10/assets/114827353/f6068bc7-4fcc-484f-b8e2-77557ad04d4c)
   ![image](https://github.com/mathblender17/CAE_autoencoders_CIFAR_10/assets/114827353/004c4a09-388a-4533-b1c5-6e547a625de2)
   ![image](https://github.com/mathblender17/CAE_autoencoders_CIFAR_10/assets/114827353/6cf3389c-263f-4bd0-b1e4-e75d813bbb5f)
 
-  ![image](https://github.com/mathblender17/CAE_autoencoders_CIFAR_10/assets/114827353/f6068bc7-4fcc-484f-b8e2-77557ad04d4c)
+ 
